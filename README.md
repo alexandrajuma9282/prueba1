@@ -1,2 +1,6 @@
 # prueba1
-Repositorio de prueba
+Repositorio de ejercicio 1
+
+Creado por JL
+
+
